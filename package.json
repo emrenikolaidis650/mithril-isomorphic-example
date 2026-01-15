@@ -1,6 +1,6 @@
 {
   "name": "mithril-isomorphic-example",
-  "version": "0.1.21",
+  "version": "0.1.22",
   "description": "Example of an isomorphic mithril application",
   "main": "src/index.js",
   "scripts": {
